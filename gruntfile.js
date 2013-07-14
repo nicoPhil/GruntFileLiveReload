@@ -13,7 +13,7 @@ module.exports = function(grunt) {
 	grunt.initConfig({
 		watch: {
 			livereload: {
-				files: 'app/*',
+				files: 'app/**/*',
 				options: {
 					livereload: LIVERELOAD_PORT,
 				},

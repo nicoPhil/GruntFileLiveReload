@@ -26,6 +26,7 @@ Just put your files in the app folder (or any subdirectories).
     grunt
 
 This will start a webServer and open a browser on localhost:8000/
+
 A watch is monitoring changes and refresh the browser on file change (liveReload).
 
 

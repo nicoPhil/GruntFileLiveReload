@@ -8,7 +8,7 @@ Usage:
 -------------
 1)
 
-You will need npm and grunt installed.
+You will need npm installed.
 
 
 2)
